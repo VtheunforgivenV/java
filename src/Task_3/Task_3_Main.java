@@ -1,7 +1,7 @@
 package Task_3;
 
 /**
- * Created by Administrator on 22.03.2017.
+ * Created by kevin.toerpsch on 22.03.2017.
  */
 public class Task_3_Main {
 
